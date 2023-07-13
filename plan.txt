@@ -15,6 +15,8 @@
     - setup js and scss
 
 [-Install tailwind]
+    -setup tailwind config
+    
 
 [-] Create Home page using html and css
     -include tailwind css
